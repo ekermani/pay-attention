@@ -6,4 +6,5 @@ After the initial iterations, I found code that was better suited to the tilt se
 
 The part I struggle with is getting the motor to stop in a reasonable time.
 
+Video: https://vimeo.com/216942398
 
